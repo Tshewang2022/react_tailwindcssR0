@@ -19,7 +19,7 @@ const Body = ()=>{
                         </div>
                     </div>
                 </div>
-                <div className="grid grid-cols-4 gap-4 mx-[10px]">
+                <div className="grid grid-cols-2 mx-[3px] gap-[3px] md:grid md:grid-cols-3 md:gap-4 mx-[7px] xl:grid xl:grid-cols-4 xl:gap-4 xl:mx[10px]">
                     <div className="h-[25rem] rounded-[4px] bg-white">
                         <h4 className="text-center w-full h-[6rem] font-bold pt-[10px]">
                             Triple camera Smartphones | Starting $40
